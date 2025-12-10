@@ -2,7 +2,7 @@
 **Contact:** Mobile: +91 7411250565 | E-mail: dhanashekar72@gmail.com LinkedIn: https://www.linkedin.com/in/dhanashekar-raja
 
 ## 📌 Professional Summary
-Innovative Technical Writer with 8+ years of experience in IT, specializing in Agile documentation and digital content development. Certified in MadCap Flare with proven expertise in DDLC, Online Help Documentation, AWS, and GitLab.
+Dynamic Technical Writer and Business Analyst with 8+ years of experience in IT, specializing in Agile documentation and digital content development. Certified in MadCap Flare with proven expertise in DDLC, online help systems, Markdown, AWS, and GitLab. Skilled in creating user-centric technical documentation, knowledge bases, and training materials that enhance customer experience and support product adoption. Adept at leveraging HTML and CSS for web-based content customization and troubleshooting.
 
 ## 🛠 Skills
 ![MadCap Flare](https://img.shields.io/badge/-MadCap%20Flare-blue) 
@@ -12,47 +12,53 @@ Innovative Technical Writer with 8+ years of experience in IT, specializing in A
 ![Confluence](https://img.shields.io/badge/-Confluence-blue) 
 ![Microsoft Dynamics 365](https://img.shields.io/badge/-Microsoft%20Dynamics%20365-blue) 
 ![Adobe FrameMaker](https://img.shields.io/badge/-Adobe%20FrameMaker-blue) 
-![Microsoft Office 365](https://img.shields.io/badge/-Microsoft%20Office%20365-blue) 
+![Microsoft 365](https://img.shields.io/badge/-Microsoft%20Office%20365-blue) 
 ![SharePoint](https://img.shields.io/badge/-SharePoint-blue) ![OneDrive](https://img.shields.io/badge/-OneDrive-blue)
+![CSS and HTML](https://img.shields.io/badge/CSS-HTML-blue)
+
 
 ## 💼 Experience Highlights
 ### Technical Writer II, Fortra (July 2022 to Present)
 **Roles And Responsibilities**
 - Create and maintain product documentation for print and online help using MadCap Flare.
-- Write and publish Knowledge Base (KB) articles using Microsoft Dynamics 365 to support customers with accurate, accessible content.
-- Collaborate with designers, developers, and product managers to deliver user-focused Knowledge Base articles and Release Notes aligned with brand voice.
+- Write and publish Knowledge Base (KB) articles in Microsoft Dynamics 365, ensuring accurate and accessible content for customers.
+- Collaborate with designers, developers, and product managers to deliver user-focused KB articles and release notes aligned with brand voice.
 - Participate in product demos and sprint meetings to gather insights for upcoming releases.
 - Research and write web content for customers, including contributions to quarterly newsletters.
 - Utilize Jira and Confluence to track and document bug fixes and feature updates.
-- Advocate for content strategy and plain language principles throughout the product development lifecycle.
+- Create and maintain README documentation in GitLab repositories using Markdown, ensuring clarity and consistency for development teams.
+- Apply version control best practices to manage documentation updates and track changes effectively.
 - Test UI workflows for accuracy and report inconsistencies to QA teams.
-- Manage source files using GitLab and D365 and publish HTML outputs hosted on AWS.
+- Manage source files and documentation workflows using GitLab and Microsoft Dynamics 365 (D365) for version control and content integrity.
+- Generate and publish HTML outputs for technical documentation hosted on AWS, ensuring global accessibility and scalability.
+- Demonstrate working knowledge of HTML and CSS to customize and troubleshoot web-based documentation layouts.
+
 ### Senior Business Analyst - Technical Writer, eClinicalWorks (Apr 2018 to Jan 2021)
 **Roles and Responsibilities**
-- Produce high-quality documentation using Agile methodology that complies with applicable standards and suits its intended audience.
-- Interview stakeholders, developers, subject matter experts, and business analysts to gather product knowledge and discuss the release notes and change logs.
-- Deliver high-quality communications, including meeting or conference materials, forms, documents, presentations, spreadsheets, and other record-keeping databases.
-- Send meeting minutes to participants to ensure discussions are addressed and recorded.
-- Analyze and evaluate the product UI (EMR and EHR) after each release to confirm workflow accuracy and report bugs to the QA team.
-- Manage documents (create, synchronize, back up, publish, share, and archive) on Microsoft SharePoint and OneDrive to monitor their status and publish on the Knowledge Hub or Customer Portal.
+- Produced high-quality documentation using Agile methodology, ensuring compliance with standards and alignment with audience needs.
+- Conducted stakeholder interviews with developers, SMEs, and business analysts to gather product knowledge and prepare release notes and change logs.
+- Delivered clear and professional communications, including meeting materials, forms, presentations, and record-keeping databases.
+- Documented and distributed meeting minutes to ensure accurate tracking of discussions and action items.
+- Analyzed and evaluated EMR/EHR product UI workflows post-release, reporting bugs and inconsistencies to QA teams.
+- Managed and maintained documents on Microsoft SharePoint and OneDrive, including synchronization, backup, publishing, and archiving for Knowledge Hub and Customer Portal.
 ### 🛠 Skills and Tools Used
-- Access and use cloud-based applications such as Electronic Medical Record (EMR) and Electronic Health Record (EHR) to navigate product workflows and gain in-depth knowledge before writing documents.
-- Strong knowledge of Microsoft SharePoint and OneDrive, including their policies for organizing and maintaining documents for current and future publications.
-- Extensive knowledge of U.S ambulatory healthcare services and their operations.
-- Deep understanding of the Microsoft Office 365 suite, including Word, Excel, Visio, OneNote, Teams, Yammer, Planner, and PowerPoint.
-- Proficient in Adobe FrameMaker (2019), Acrobat DC Pro (including editing, commenting, signing, and creating PDF forms), social media applications, and MadCap Flare.
-- Effective use of Adobe Photoshop, Jira, and Confluence.
-- Strong grasp of English grammar, punctuation, parallel construction, and sentence structure.
-- Responsible for developing posters for official announcements, organizational events, and activities.
+- Expertise in EMR/EHR systems for workflow analysis and documentation.
+- Proficient in the Microsoft 365 suite, including SharePoint, OneDrive, Word, Excel, Visio, OneNote, Teams, Yammer, Planner, and PowerPoint, with expertise in document management, collaboration, and workflow optimization.
+- Proficient in Adobe FrameMaker, Acrobat DC Pro, and Adobe Photoshop.
+- Skilled in Jira, Confluence, and social media tools for collaboration and content management.
+- Solid understanding of U.S. ambulatory healthcare services and operations.
+- Strong command of English grammar, punctuation, and technical writing standards.
+- Designed posters and visual content for official announcements and organizational events.
+
 ## Associate Detail Engineer, BlueStream Professional Services India (Sep 2015 to Feb 2018)
 **Roles and Responsibilities**
-- Assist the Installation Engineer in commissioning and decommissioning network bays, fiber panels, and circuit packs by providing the written instruction manual.
-- Order and quote the required engineering materials for the installation using the System Integration Information Manager (SIIM) internal application.
-- Interact with the Installation Admins, Application Engineers, and Project Managers to discuss technical problems, report bugs, and support the Installation Team.
-- Write the User Guide (SPEC - Specification Installation) and Method of Procedure (MOP) based on the scope of work provided by the SME or stakeholder.
-- Perform and participate in peer review of SPEC, MOP, and SOP.
-- Refer to the AT&T technical publications such as TP-76300 Installation Standards and 
-- TP-76400 Engineering Standards during the engineering documentation.
+- Supported Installation Engineers in commissioning and decommissioning network bays, fiber panels, and circuit packs by preparing detailed instruction manuals.
+- Managed procurement and quoting of engineering materials using the internal System Integration Information Manager (*SIIM*) application.
+- Collaborated with Installation Admins, Application Engineers, and Project Managers to troubleshoot technical issues, report software bugs, and provide documentation support to the Installation Team.
+- Authored user documentation, including Specification Installation Guides (*SPEC*) and Method of Procedure (*MOP*) based on project scope provided by subject matter experts (*SMEs*) or stakeholders.
+- Conducted peer reviews of engineering documents such as SPECs, MOPs, and Standard Operating Procedures (*SOPs*) to ensure accuracy and compliance.
+- Referred to AT&T technical publications (*TP-76300 Installation Standards and TP-76400 Engineering Standards*) to maintain documentation quality and adherence to industry standards.
+
 
 <h2 id="education">🎓 Education</h2>
 <table>
