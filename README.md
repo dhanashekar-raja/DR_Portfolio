@@ -1,5 +1,39 @@
 # Dhanashekar Raja
-**Contact:** Mobile: +91 7411250565 | E-mail: dhanashekar72@gmail.com LinkedIn: https://www.linkedin.com/in/dhanashekar-raja
+
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
+  <tr>
+    <th style="width:25%; padding:10px; text-align:left; vertical-align:top;">
+      Mobile:
+    </th>
+    <th style="width:25%; padding:10px; text-align:left; vertical-align:top;">
+      E-mail:
+    </th>
+    <th style="width:25%; padding:10px; text-align:left; vertical-align:top;">
+      LinkedIn:
+    </th>
+    <th style="width:25%; padding:10px; text-align:left; vertical-align:top;">
+      Portfolio:
+    </th>
+  </tr>
+  <tr>
+    <td style="padding:10px; word-break:break-word;">
+      +91&nbsp;7411250565
+    </td>
+    <td style="padding:10px; word-break:break-word;">
+      dhanashekar72@gmail.com
+    </td>
+    <td style="padding:10px; word-break:break-word;">
+      <a href="https://www.linkedin.com/in/dhanashekar-raja">
+        linkedin.com/in/dhanashekar-raja
+      </a>
+    </td>
+    <td style="padding:10px; word-break:break-word;">
+      <a href="https://shekarportfolio.my.canva.site/">
+        shekarportfolio.my.canva.site
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📌 Professional Summary
 Technical Writer / Support Engineer with 8+ years of experience supporting enterprise and SaaS products through customer-facing documentation, knowledge bases, and technical issue analysis. Proven ability to collaborate with Support, Engineering, QA, and Product teams to troubleshoot issues, document solutions, and improve customer experience. Strong hands-on experience with Git-based workflows, Markdown, Agile development, and web technologies (HTML/CSS). Known for translating complex technical concepts into clear, actionable guidance for both customers and internal teams.
@@ -64,7 +98,7 @@ Technical Writer / Support Engineer with 8+ years of experience supporting enter
 
 
 <h2 id="education">🎓 Education</h2>
-<table>
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
 <thead>
 <tr>
 <th>Degree</th>
