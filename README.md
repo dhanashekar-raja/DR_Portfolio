@@ -22,13 +22,11 @@ My experience spans:
 
 ## Portfolio
 
-This repository contains selected examples of my work across **Technical Writing, Business Analysis, and Docs-as-Code**.
+This repository contains a brief overview of my work across **Technical Writing, Business Analysis, and Docs-as-Code**.
 
 ### ✍️ Technical Writing
 
-Documentation samples demonstrating information architecture, technical communication, content structure, and user-focused writing.
-
-**[Explore Technical Writing →](./technical-writing/)**
+Documentation that demonstrate information architecture, technical communication, content structure, and user-focused writing.
 
 Includes:
 
@@ -42,9 +40,7 @@ Includes:
 
 ### 📊 Business Analysis
 
-Examples demonstrating requirements analysis and translating business and user needs into actionable product requirements.
-
-**[Explore Business Analysis →](./business-analysis/)**
+Demonstrating requirements analysis and translating business and user needs into actionable product requirements.
 
 Includes:
 
@@ -58,9 +54,7 @@ Includes:
 
 ### ⚙️ Docs-as-Code
 
-Examples of documentation workflows using modern development practices.
-
-**[Explore Docs-as-Code →](./docs-as-code/)**
+Documentation workflows using modern development practices.
 
 Technologies and practices include:
 
@@ -70,14 +64,6 @@ Technologies and practices include:
 * Pull requests
 * HTML publishing
 * Documentation repositories
-
----
-
-### 📚 Case Studies
-
-End-to-end examples showing how I approach a product or documentation problem—from understanding the requirement through analysis, documentation, and delivery.
-
-**[Explore Case Studies →](./case-studies/)**
 
 ---
 
@@ -120,6 +106,7 @@ Key areas:
 * QA and Engineering collaboration
 * Knowledge management
 * Customer and internal documentation
+* Peer mentoring and review feedback
 
 ---
 
@@ -181,6 +168,8 @@ HKBK College of Engineering, Bangalore, India
 * **LinkedIn:** <a href="https://www.linkedin.com/in/dhanashekar-raja-67a89481/" target="_blank">linkedin.com/in/dhanashekar-raja</a>
 * **GitHub:** <a href="https://github.com/dhanashekar-raja/DR_Portfolio" target="_blank">dhanashekar-raja-github</a>
 
+<!--This note can be ignored/*
 | |
 | --- |
 | **Note:** Selected portfolio examples are original work created for demonstration purposes or anonymized to protect confidential and proprietary information. |
+*/This note can be ignored/* -->
