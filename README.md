@@ -23,20 +23,18 @@
       dhanashekar72@gmail.com
     </td>
     <td style="padding:10px; word-break:break-word;">
-      <a href="https://www.linkedin.com/in/dhanashekar-raja">
-        linkedin.com/in/dhanashekar-raja
-      </a>
+      <a href="https://www.linkedin.com/in/dhanashekar-raja-67a89481/" target="_blank" rel="noopener noreferrer">linkedin.com/in/dhanashekar-raja</a>
     </td>
     <td style="padding:10px; word-break:break-word;">
-      <a href="https://shekarportfolio.my.canva.site/">
-        shekarportfolio.my.canva.site
+      <a href="https://dhanashekar-raja.github.io/" target="_blank">
+        dhanashekar-raja-portfolio
       </a>
     </td>
   </tr>
 </table>
 
 ## 📌 Professional Summary
-Technical Writer / Support Engineer with 8+ years of experience supporting enterprise and SaaS products through customer-facing documentation, knowledge bases, and technical issue analysis. Proven ability to collaborate with Support, Engineering, QA, and Product teams to troubleshoot issues, document solutions, and improve customer experience. Strong hands-on experience with Git-based workflows, Markdown, Agile development, and web technologies (HTML/CSS). Known for translating complex technical concepts into clear, actionable guidance for both customers and internal teams.
+Business Analyst and Technical Product Analyst with 9+ years of experience across SaaS, healthcare technology, and software development environments. Experienced in analyzing business and user needs, evaluating product workflows, collaborating with cross-functional teams, and translating technical and functional changes into actionable requirements and documentation. Strong background in Agile/Scrum, SDLC, Jira, Confluence, QA collaboration, workflow analysis, UAT support, and product documentation. Previous experience with EMR/EHR products provides additional healthcare-domain expertise.
 
 ## 🛠 Skills
 ![MadCap Flare](https://img.shields.io/badge/-MadCap%20Flare-blue) 
@@ -52,19 +50,17 @@ Technical Writer / Support Engineer with 8+ years of experience supporting enter
 
 
 ## 💼 Experience Highlights
-### Technical Writer II, Fortra (July 2022 to Present)
+### Technical Writer II, Fortra (July 2022 to September 2026)
 **Roles And Responsibilities**
-- Develop and maintain customer-facing documentation and knowledge base (KB) articles that support issue resolution, product understanding, and self-service for SaaS users.
-- Author, review, and publish KB articles and release notes in Microsoft Dynamics 365, ensuring accuracy, clarity, and alignment with customer support workflows.
-- Partner closely with Support, Engineering, Product, and QA teams to translate technical concepts into user-friendly documentation that improves customer experience.
-- Participate in product demos, sprint meetings, and Agile ceremonies to stay aligned with upcoming features, bug fixes, and customer-impacting changes.
-- Create and maintain README and developer-facing documentation in GitLab using Markdown, supporting internal teams with setup guidance, workflows, and troubleshooting context.
-- Apply Git-based version control best practices to track documentation changes and maintain content integrity across releases.
-- Test UI workflows from an end-user perspective, identified defects and inconsistencies, and collaborated with QA teams to resolve issues affecting usability.
-- Document bug fixes, feature updates, and known issues using Jira and Confluence, enabling better cross-team visibility and faster resolution.
-- Generate and publish HTML-based documentation hosted on AWS, ensuring scalable and globally accessible help content.
-- Use HTML and CSS to customize and troubleshoot web-based documentation layouts and resolve display issues.
-- Contribute customer-focused content to quarterly newsletters, improving awareness of product enhancements and best practices.
+- Collaborate with Product Management, Engineering, and QA to understand functional requirements, evaluate feature changes and acceptance criteria, identify product impacts, and translate them into accurate user workflows and customer-facing documentation.
+- Collaborate within Agile product squads using Jira to manage documentation and product-related tasks throughout the sprint lifecycle, maintaining task status, acceptance criteria, and relevant Jira fields in alignment with sprint requirements.
+- Create and manage Jira work items to track documentation and product-analysis activities, maintaining visibility into active work, dependencies, progress, and completion throughout the sprint.
+- Develop and maintain customer-facing documentation, defining information architecture, navigation structures, and reusable content models for enterprise SaaS products.
+- Author and manage a structured repository of 150+ high-impact Knowledge Base articles and release notes in Microsoft Dynamics 365, supporting customer support operations and reducing repeat inquiries.
+- Manage developer-facing documentation using Docs-as-Code practices with GitLab, Markdown, Git version control, and pull-request workflows.
+- Evaluate end-to-end product UI workflows from an end-user perspective, validate functionality against acceptance criteria where applicable, identify defects or inconsistencies, and collaborate with QA and Engineering teams on resolution.
+- Collaborate within sprint activities, feature demonstrations, and continuous delivery cycles to maintain documentation readiness for product releases.
+- Publish responsive HTML documentation to AWS-hosted environments, ensuring scalable and versioncontrolled online help delivery. 
 
 ### Senior Business Analyst - Technical Writer, eClinicalWorks (Apr 2018 to Jan 2021)
 **Roles and Responsibilities**
