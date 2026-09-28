@@ -158,10 +158,11 @@ Humber Institute of Technology and Advanced Learning, Toronto, Canada
 **January 2021 – August 2021**
 
 **Postgraduate Diploma in Business Administration**
+Kristu Jayanti College, Bangalore, India
 **July 2018 – July 2019**
 
 **Bachelor of Engineering — Electronics & Communication**
-Visvesvaraya Technological University, Bangalore, India
+HKBK College of Engineering, Bangalore, India
 **September 2011 – June 2015**
 
 ---
@@ -176,9 +177,9 @@ Visvesvaraya Technological University, Bangalore, India
 
 ## Connect
 
-* **Portfolio:** [dhanashekar-raja.github.io](https://dhanashekar-raja.github.io/)
+* **Portfolio:** <a href="https://dhanashekar-raja.github.io/" target="_blank">dhanashekar-raja-portfolio</a>
 * **LinkedIn:** <a href="https://www.linkedin.com/in/dhanashekar-raja-67a89481/" target="_blank">linkedin.com/in/dhanashekar-raja</a>
-* **GitHub:** [github.com/dhanashekar-raja](https://github.com/dhanashekar-raja)
+* **GitHub:** <a href="https://github.com/dhanashekar-raja/DR_Portfolio" target="_blank">dhanashekar-raja-github</a>
 
 | |
 | --- |
