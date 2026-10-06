@@ -65,6 +65,8 @@ Technologies and practices include:
 * HTML publishing
 * Documentation repositories
 
+See the [Google Pay India Product Workflow](https://github.com/dhanashekar-raja/DR_Portfolio/blob/main/Google_Pay_India_Workflow_Overview.md) sample guide.
+
 ---
 
 ## Professional Experience
