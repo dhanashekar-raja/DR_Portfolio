@@ -26,7 +26,7 @@ This repository contains a brief overview of my work across **Technical Writing,
 
 ### ✍️ Technical Writing
 
-Documentation that demonstrate information architecture, technical communication, content structure, and user-focused writing.
+Documentation that demonstrates information architecture, technical communication, content structure, and user-focused writing.
 
 Includes:
 
