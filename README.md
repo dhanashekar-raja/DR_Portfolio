@@ -1,6 +1,6 @@
 # Dhanashekar Raja
 
-### Technical Writer | Senior Business Analyst
+### Senior Technical Writer | Technical Product Analyst | Business Analyst
 
 9+ years of experience working across software development, SaaS, healthcare technology, telecommunications, and technical documentation.
 
@@ -9,22 +9,22 @@ I specialize in understanding **product requirements, user workflows, and techni
 My experience spans:
 
 * Technical and product documentation
+* Docs-as-Code and Git-based documentation
+* Release notes and knowledge-base content
 * Business and functional requirements
 * User stories and acceptance criteria
 * Product and workflow analysis
-* Release notes and knowledge-base content
 * Troubleshooting and user guides
 * Agile/Scrum and SDLC
-* Docs-as-Code and Git-based documentation
 * Cross-functional collaboration with Product, Engineering, QA, and Support
 
 ---
 
 ## Portfolio
 
-This repository contains a brief overview of my work across **Technical Writing, Business Analysis, and Docs-as-Code**.
+This repository contains a brief overview of my work across **[Technical Documentation](#️-technical-documentation), [Docs-as-Code](#️-docs-as-code), and [Business Analysis](#-business-analysis)**.
 
-### ✍️ Technical Writing
+### ✍️ Technical Documentation
 
 Documentation that demonstrates information architecture, technical communication, content structure, and user-focused writing.
 
@@ -35,20 +35,6 @@ Includes:
 * Release notes
 * Knowledge-base articles
 * Troubleshooting guides
-
----
-
-### 📊 Business Analysis
-
-Demonstrating requirements analysis and translating business and user needs into actionable product requirements.
-
-Includes:
-
-* Business requirements
-* Functional and non-functional requirements
-* User stories
-* Acceptance criteria
-* Process and workflow analysis
 
 ---
 
@@ -65,7 +51,23 @@ Technologies and practices include:
 * HTML publishing
 * Documentation repositories
 
-See the [Google Pay India Product Workflow](https://github.com/dhanashekar-raja/DR_Portfolio/blob/main/Google_Pay_India_Workflow_Overview.md) sample guide.
+See the following sample guides:
+- <a href="https://github.com/dhanashekar-raja/DR_Portfolio/blob/main/Google_Pay_India_Workflow_Overview.md" target="_blank">Google Pay India Product Workflow</a>
+- <a href="https://github.com/dhanashekar-raja/DR_Portfolio/blob/main/Quora_User_Profile_Creation.md" target="_blank">Quora User Profile Creation</a> 
+
+---
+
+### 📊 Business Analysis
+
+Demonstrating requirements analysis and translating business and user needs into actionable product requirements.
+
+Includes:
+
+* Business requirements
+* Functional and non-functional requirements
+* User stories
+* Acceptance criteria
+* Process and workflow analysis
 
 ---
 
@@ -132,11 +134,11 @@ Key areas:
 
 ## Tools & Technologies
 
-- **Business Analysis & Product**: Requirements Analysis | Workflow Analysis | Process Analysis | Stakeholder Collaboration | Product Lifecycle | UAT Support
+- **Documentation & Knowledge Management:** Technical Documentation | Knowledge Bases | Release Notes | Information Architecture | MadCap Flare | Markdown | SharePoint | Microsoft Dynamics 365
+- **Business Analysis & Product**: Requirements Analysis | Process Analysis | Stakeholder Collaboration | Product Lifecycle | UAT Support
 - **Agile & Development:** Agile/Scrum | SDLC | Jira | Confluence | Git | GitLab | Sprint Workflows | Acceptance Criteria
 - **Healthcare Technology:** EMR/EHR Systems | Healthcare Workflows | Clinical Software
-- **Documentation & Knowledge Management:** Technical Documentation | Knowledge Bases | Release Notes | Information Architecture | MadCap Flare | Markdown | SharePoint | Microsoft Dynamics 365
-- **Web & Digital Platforms:** HTML | CSS | AWS | SnagIT | ChatGPT | Copilot | Adobe Photoshop 
+- **Web & Digital Platforms:** HTML | CSS | AWS | SnagIT | ChatGPT | Copilot | Adobe Photoshop | Adobe Acrobat Pro
 
 ---
 
@@ -171,7 +173,7 @@ HKBK College of Engineering, Bangalore, India
 * **GitHub:** <a href="https://github.com/dhanashekar-raja/DR_Portfolio" target="_blank">dhanashekar-raja-github</a>
 
 <!--This note can be ignored/*
-| |
-| --- |
+|                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Note:** Selected portfolio examples are original work created for demonstration purposes or anonymized to protect confidential and proprietary information. |
 */This note can be ignored/* -->
