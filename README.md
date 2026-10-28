@@ -26,7 +26,7 @@ This repository contains a brief overview of my work across **Technical Writing,
 
 ### ✍️ Technical Writing
 
-Documentation that demonstrate information architecture, technical communication, content structure, and user-focused writing.
+Documentation that demonstrates information architecture, technical communication, content structure, and user-focused writing.
 
 Includes:
 
@@ -64,6 +64,8 @@ Technologies and practices include:
 * Pull requests
 * HTML publishing
 * Documentation repositories
+
+See the [Google Pay India Product Workflow](https://github.com/dhanashekar-raja/DR_Portfolio/blob/main/Google_Pay_India_Workflow_Overview.md) sample guide.
 
 ---
 
