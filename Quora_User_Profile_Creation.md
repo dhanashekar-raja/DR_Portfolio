@@ -1,5 +1,6 @@
 # Quora User Profile Creation
-- [Introduction](#introduction)
+- [Quora User Profile Creation](#quora-user-profile-creation)
+  - [Introduction](#introduction)
   - [Creating User Profile](#creating-user-profile)
   - [Registering on the Portal](#registering-on-the-portal)
     - [To sign up on the portal:](#to-sign-up-on-the-portal)
@@ -16,6 +17,7 @@ The following sections explain how to sign up and create a user profile on the Q
 
 ## Registering on the Portal
 **Path**: *Quora Portal > Sign Up*
+
 This section enables users to sign up with their social accounts or email and encrypt them with a password.
 
 ### To sign up on the portal:
@@ -26,13 +28,12 @@ This section enables users to sign up with their social accounts or email and en
 
    ![Sign Up](https://img.notionusercontent.com/s3/prod-files-secure%2F7e2f13e5-a0b6-81f3-bc30-000312485ec0%2F07848640-473e-45e7-a787-ac9ac1797347%2Fimage.png/size/w=640?tok=eyJhbGciOiJFUzI1NiIsImtpZCI6IlI3dzVrRnREIiwidHlwIjoiSldUIn0.eyJzcGFjZUlkIjoiN2UyZjEzZTUtYTBiNi04MWYzLWJjMzAtMDAwMzEyNDg1ZWMwIiwiZmlsZUlkIjoiMDc4NDg2NDAtNDczZS00NWU3LWE3ODctYWM5YWMxNzk3MzQ3IiwicmVjb3JkIjoiYmxvY2s6MmNiZjEzZTUtYTBiNi04MDU1LTk1MDgtZDU4ODYwNTNlNDg4IiwiZXhwIjoxNzkzMjgwNTU0fQ.6aRIfEJAHcBDHxtM0a1yuBfu2Rl_Ok5kY_TX7VyIwaNbbNcMXMUa7IspjZZM2nbHaHuvZru6VUPNh6cXilmgNA&imgBuildSrc=createSecureFileAccessTokenImageUrl&mtd=so)
 
-    | **NOTE:** The following information must be noted while creating an account: |
-    | ---------------------------------------------------------------------------- |
+    **NOTE:** The following information must be noted while creating an account:
     - Ensure the name and e-mail ID entered are accurate.
     - Ensure the password entered contains at least one lower case, one upper case, and a numeric; if not, the following message displays:
 
         *Please use a password with at least one lowercase letter, an uppercase letter, and a digit.*
-5. Select the applicable topics or areas of interest that are displayed in the dialogue box and click Done to complete the sign-up process.
+5. Select the applicable topics or areas of interest that are displayed in the dialogue box and click **Done** to complete the sign-up process.
 
 ## Completing the Credentials and Highlights
 
@@ -55,7 +56,7 @@ This section describes how to add the employment, education, and location detail
 
     ![Edit Credentials](https://dhanashekar-raja-prof-summary.notion.site/image/attachment%3A90e2bcd0-d4e3-443b-aa5d-1638bc3601b7%3Aimage.png?table=block&id=2cbf13e5-a0b6-805a-a434-d7c09fb3e1fb&spaceId=7e2f13e5-a0b6-81f3-bc30-000312485ec0&width=2000&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl)
 
-3. Click Save to save the employment details.
+3. Click **Save** to save the employment details.
 
 ### To add the education details:
 
