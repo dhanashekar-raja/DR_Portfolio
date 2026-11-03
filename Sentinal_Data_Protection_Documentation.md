@@ -1,12 +1,12 @@
 # Sentinel Data Protection Documentation
-> Note:
+> [!NOTE]
 > Sentinel Data Protection Documentation is a fictional portfolio project. All product information, features, workflows and technical examples are illustrative and do not represent verified commercial product documentation.
 
 ## Overview
 
 Sentinel Data Protection is a fictional enterprise security platform designed to protect sensitive business information.
 
-> Recommended:
+> [!TIP]
 > This page describes an overview of this product. For complete product documentation, visit [Sentinel Data Protection](https://dhanashekar-raja.github.io/sentinel-data-protection/).
 
 ## Documentation

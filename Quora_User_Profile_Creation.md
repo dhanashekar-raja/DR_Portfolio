@@ -28,11 +28,12 @@ This section enables users to sign up with their social accounts or email and en
 
    ![Sign Up](https://img.notionusercontent.com/s3/prod-files-secure%2F7e2f13e5-a0b6-81f3-bc30-000312485ec0%2F07848640-473e-45e7-a787-ac9ac1797347%2Fimage.png/size/w=640?tok=eyJhbGciOiJFUzI1NiIsImtpZCI6IlI3dzVrRnREIiwidHlwIjoiSldUIn0.eyJzcGFjZUlkIjoiN2UyZjEzZTUtYTBiNi04MWYzLWJjMzAtMDAwMzEyNDg1ZWMwIiwiZmlsZUlkIjoiMDc4NDg2NDAtNDczZS00NWU3LWE3ODctYWM5YWMxNzk3MzQ3IiwicmVjb3JkIjoiYmxvY2s6MmNiZjEzZTUtYTBiNi04MDU1LTk1MDgtZDU4ODYwNTNlNDg4IiwiZXhwIjoxNzkzMjgwNTU0fQ.6aRIfEJAHcBDHxtM0a1yuBfu2Rl_Ok5kY_TX7VyIwaNbbNcMXMUa7IspjZZM2nbHaHuvZru6VUPNh6cXilmgNA&imgBuildSrc=createSecureFileAccessTokenImageUrl&mtd=so)
 
-    **NOTE:** The following information must be noted while creating an account:
-    - Ensure the name and e-mail ID entered are accurate.
-    - Ensure the password entered contains at least one lower case, one upper case, and a numeric; if not, the following message displays:
-
-        *Please use a password with at least one lowercase letter, an uppercase letter, and a digit.*
+    > [!NOTE]
+    > The following information must be noted while creating an account:
+    > - Ensure the name and e-mail ID entered are accurate.
+    > - Ensure the password entered contains at least one lower case, one upper case, and a numeric; if not, the following message displays:
+    >
+    > *Please use a password with at least one lowercase letter, an uppercase letter, and a digit.*
 5. Select the applicable topics or areas of interest that are displayed in the dialogue box and click **Done** to complete the sign-up process.
 
 ## Completing the Credentials and Highlights
@@ -87,7 +88,8 @@ This section describes how to add the employment, education, and location detail
     | End Year              | Select the end year from the drop-down list.                 |
     | I currently live here | Check this box if currently living in the selected location. |
 
-    **NOTE:** The Start Year and the End Year indicate the tenure being stayed in a particular location.
+    > [!NOTE]
+    > The Start Year and the End Year indicate the tenure being stayed in a particular location.
 
     ![Location Details](https://dhanashekar-raja-prof-summary.notion.site/image/attachment%3Aa93167a0-9bf5-4b1f-bc8f-0c13d625436f%3Aimage.png?table=block&id=2cbf13e5-a0b6-80cb-b6c4-cbf05656010e&spaceId=7e2f13e5-a0b6-81f3-bc30-000312485ec0&width=740&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl)
 
