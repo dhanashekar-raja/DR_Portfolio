@@ -16,7 +16,8 @@ This user guide provides step-by-step instructions on creating a user profile on
 The following sections explain how to sign up and create a user profile on the Quora website.
 
 ## Registering on the Portal
-**Path**: *Quora Portal > Sign Up*
+>
+> **Path**: *Quora Portal > Sign Up*
 
 This section enables users to sign up with their social accounts or email and encrypt them with a password.
 
@@ -37,8 +38,8 @@ This section enables users to sign up with their social accounts or email and en
 5. Select the applicable topics or areas of interest that are displayed in the dialogue box and click **Done** to complete the sign-up process.
 
 ## Completing the Credentials and Highlights
-
-**Path:** *Quora Portal > User Login > Credentials & Highlights*
+>  
+> **Path:** *Quora Portal > User Login > Credentials & Highlights*
 
 This section describes how to add the employment, education, and location details on the Quora main page window.
 
