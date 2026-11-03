@@ -25,15 +25,10 @@ This section explains how users can sign up using their social accounts or email
 1. Enter a name in the **Name** field on the Quora window.
 2. Enter an email address in the **Email** field.
 3. Enter a password in the **Password** field.
-<<<<<<< HEAD
 4. Check the **I'm not a robot** box and click **Sign Up**:
-=======
-4. Check the **I'm not a robot** box and click **Sign Up**.
->>>>>>> 019d407ac6ad0a02384b381f0ce2c8d307ce3f19
 
    ![Sign Up](https://img.notionusercontent.com/s3/prod-files-secure%2F7e2f13e5-a0b6-81f3-bc30-000312485ec0%2F07848640-473e-45e7-ac9ac1797347%2Fimage.png/size/w=640?tok=eyJhbGciOiJFUzI1NiIsImtpZC)
 
-<<<<<<< HEAD
     > [!NOTE]
     >
     > The following information must be noted while creating an account:
@@ -42,23 +37,10 @@ This section explains how users can sign up using their social accounts or email
     > - Ensure the password entered contains at least one lower case, one upper case, and a numeric; if not, the following message displays:
     >
     >   *Please use a password with at least one lowercase letter, an uppercase letter, and a digit.*
-5. Select the applicable topics or areas of interest that are displayed in the dialogue box and click **Done** to complete the sign-up process.
-
-## Completing the Credentials and Highlights
->
-> **Path**: *Quora Portal > User Login > Credentials & Highlights*
-=======
-   > [!NOTE]
-   > The following information must be noted while creating an account:
-   > - Ensure the name and email ID entered are accurate.
-   > - Ensure the password entered contains at least one lowercase letter, one uppercase letter, and one numeric character. If not, the following message displays:
-   >
-   > *Please use a password with at least one lowercase letter, an uppercase letter, and a digit.*
 5. Select the applicable topics or areas of interest that are displayed in the dialog box and click **Done** to complete the sign-up process.
 
 ## Completing the Credentials and Highlights
-> **Path:** *Quora Portal > User Login > Credentials & Highlights*
->>>>>>> 019d407ac6ad0a02384b381f0ce2c8d307ce3f19
+> **Path**: *Quora Portal > User Login > Credentials & Highlights*
 
 This section describes how to add employment, education, and location details on the Quora main page window.
 
@@ -92,11 +74,6 @@ This section describes how to add employment, education, and location details on
 
    ![Education Details](https://dhanashekar-raja-prof-summary.notion.site/image/attachment%3A240f4f1c-f4fd-4b2f-80ae-c94b70f6f624%3APicture2.jpg?table=block&id=2cbf13e5-a0b6-801a-b1ca-c74c6e8a6399&spaceId=7e2f13e5-a0b6-81f3-bc30-000312485ec0)
 
-<<<<<<< HEAD
-    ![Education Details](https://dhanashekar-raja-prof-summary.notion.site/image/attachment%3A240f4f1c-f4fd-4b2f-80ae-c94b70f6f624%3APicture2.jpg?table=block&id=2cbf13e5-a0b6-801a-b1ca-c74c6e8a6399&spaceId=7e2f13e5-a0b6-81f3-bc30-000312485ec0&width=740&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl)
-
-=======
->>>>>>> 019d407ac6ad0a02384b381f0ce2c8d307ce3f19
 3. Click **Save** to save the education details.
 
 ### To add the location details:
@@ -116,14 +93,7 @@ This section describes how to add employment, education, and location details on
    ![Location Details](https://dhanashekar-raja-prof-summary.notion.site/image/attachment%3Aa93167a0-9bf5-4b1f-bc8f-0c13d625436f%3Aimage.png?table=block&id=2cbf13e5-a0b6-80cb-b6c4-cbf05656010e&spaceId=7e2f13e5-a0b6-81f3-bc30-000312485ec0)
 
 3. Click **Save** to save the location details.
-<<<<<<< HEAD
-
-    Once these details are added, the following cover page displays:
-
-    ![Profile Updated](https://dhanashekar-raja-prof-summary.notion.site/image/attachment%3A8af18714-e520-45b5-ad6a-eaec52f9bd02%3Aimage.png?table=block&id=2cbf13e5-a0b6-80bf-85e7-fb8279fe219a&spaceId=7e2f13e5-a0b6-81f3-bc30-000312485ec0&width=1220&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl)
-=======
 
    Once these details are added, the following cover page displays:
 
-   ![Profile Updated](https://dhanashekar-raja-prof-summary.notion.site/image/attachment%3A8af18714-e520-45b5-ad6a-eaec52f9bd02%3Aimage.png?table=block&id=2cbf13e5-a0b6-80bf-85e7-fb8279fe219a&spaceId=7e2f13e5-a0b6-81f3-bc30-000312485ec0)
->>>>>>> 019d407ac6ad0a02384b381f0ce2c8d307ce3f19
+   ![Profile Updated](https://dhanashekar-raja-prof-summary.notion.site/image/attachment%3A8af18714-e520-45b5-ad6a-eaec52f9bd02%3Aimage.png?table=block&id=2cbf13e5-a0b6-80bf-85e7-fb8279fe219a&spaceId=7e2f13e5-a0b6-81f3-bc30-000312485ec0&width=1220&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl)
