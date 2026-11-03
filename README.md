@@ -172,5 +172,7 @@ HKBK College of Engineering, Bangalore, India
 * **LinkedIn:** <a href="https://www.linkedin.com/in/dhanashekar-raja-67a89481/" target="_blank">linkedin.com/in/dhanashekar-raja</a>
 * **GitHub:** <a href="https://github.com/dhanashekar-raja/DR_Portfolio" target="_blank">dhanashekar-raja-github</a>
 
+<!--
 > [!NOTE]
 > Selected portfolio examples are original work created for demonstration purposes or anonymized to protect confidential and proprietary information.
+-->
