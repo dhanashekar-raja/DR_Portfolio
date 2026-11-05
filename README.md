@@ -2,9 +2,11 @@
 
 ### Senior Technical Writer | Technical Product Analyst | Business Analyst
 
-9+ years of experience working across software development, SaaS, healthcare technology, telecommunications, and technical documentation.
+Senior Technical Writer with 8+ years of technical writing experience (9+ years in technical and engineering documentation) creating customer-facing and developer-facing documentation, knowledge base articles, and release notes for enterprise SaaS platforms. I work closely with engineering, support, QA, and product teams, translating technical changes into clear, practical documentation for users. MadCap Flare Advanced Developer certified (2025), with hands-on experience in Docs-as-Code workflows (GitLab, Markdown, Git), troubleshooting guides, and single-source, structured authoring.
 
+<!----
 I specialize in understanding **product requirements, user workflows, and technical changes** and translating them into clear, structured, and usable documentation and analysis.
+--->
 
 My experience spans:
 
@@ -35,6 +37,7 @@ Includes:
 * Release notes
 * Knowledge-base articles
 * Troubleshooting guides
+* Standard Operating Procedure (SOP)
 
 ---
 
@@ -52,6 +55,7 @@ Technologies and practices include:
 * Documentation repositories
 
 See the following sample guides:
+- <a href="https://dhanashekar-raja.github.io/sentinel-data-protection/" target="_blank">Sentinel Data Protection Documentation</a>
 - <a href="https://github.com/dhanashekar-raja/DR_Portfolio/blob/main/Google_Pay_India_Workflow_Overview.md" target="_blank">Google Pay India Product Workflow</a>
 - <a href="https://github.com/dhanashekar-raja/DR_Portfolio/blob/main/Quora_User_Profile_Creation.md" target="_blank">Quora User Profile Creation</a> 
 
@@ -75,14 +79,15 @@ Includes:
 
 ### Technical Writer II — Fortra
 
-**July 2022 – September 2026**
+| **July 2022 – September 2026** |
+| ------------------------------ |
 
 Worked with Product Management, Engineering, QA, and Support teams to analyze product changes and create customer-facing and developer-facing documentation for enterprise SaaS products.
 
 Key areas:
 
 * Product and feature documentation
-* Release notes and known issues
+* Release notes
 * Knowledge-base content
 * UI workflow analysis
 * Acceptance-criteria review
@@ -96,7 +101,8 @@ Key areas:
 
 ### Senior Business Analyst – Technical Writer — eClinicalWorks
 
-**April 2018 – January 2021**
+| **April 2018 – January 2021** |
+| ----------------------------- |
 
 Worked across business analysis, technical writing, product workflows, and healthcare software documentation.
 
@@ -116,7 +122,8 @@ Key areas:
 
 ### Associate Detail Engineer — BlueStream Professional Services
 
-**September 2015 – February 2018**
+| **September 2015 – February 2018** |
+| ---------------------------------- |
 
 Supported telecommunications engineering and field-installation teams through technical documentation, engineering analysis, and operational procedures.
 
@@ -138,8 +145,7 @@ Key areas:
 - **Business Analysis & Product**: Requirements Analysis | Process Analysis | Stakeholder Collaboration | Product Lifecycle | UAT Support
 - **Agile & Development:** Agile/Scrum | SDLC | Jira | Confluence | Git | GitLab | Sprint Workflows | Acceptance Criteria
 - **Healthcare Technology:** EMR/EHR Systems | Healthcare Workflows | Clinical Software
-- **Web & Digital Platforms:** HTML | CSS | AWS | SnagIT | ChatGPT | Copilot | Adobe Photoshop | Adobe Acrobat Pro
-
+- **Web & Digital Platforms:** HTML | CSS | AWS | SnagIT | ChatGPT | Copilot | Adobe Photoshop | Adobe Acrobat Pro 
 ---
 
 ## Education
