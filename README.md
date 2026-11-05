@@ -2,7 +2,10 @@
 
 ### Senior Technical Writer | Technical Product Analyst | Business Analyst
 
-Senior Technical Writer with 8+ years of technical writing experience (9+ years in technical and engineering documentation) creating customer-facing and developer-facing documentation, knowledge base articles, and release notes for enterprise SaaS platforms. I work closely with engineering, support, QA, and product teams, translating technical changes into clear, practical documentation for users. MadCap Flare Advanced Developer certified (2025), with hands-on experience in Docs-as-Code workflows (GitLab, Markdown, Git), troubleshooting guides, and single-source, structured authoring.
+Senior Technical Writer with 8+ years of technical writing experience (*9+ years in technical and engineering documentation*) creating customer-facing and developer-facing documentation, knowledge base articles, and release notes for enterprise SaaS platforms. I work closely with engineering, support, QA, and product teams, translating technical changes into clear, practical documentation for users. MadCap Flare Advanced Developer certified (2025), with hands-on experience in Docs-as-Code workflows (*GitLab, Markdown, Git*), troubleshooting guides, and single-source, structured authoring.
+
+> [!Tip]
+> Discover the <a href="https://dhanashekar-raja.github.io/sentinel-data-protection/" target="_blank">Sentinel Data Protection Documentation</a> written on Markdown and developed using the MkDocs Material theme.
 
 <!----
 I specialize in understanding **product requirements, user workflows, and technical changes** and translating them into clear, structured, and usable documentation and analysis.
@@ -77,15 +80,24 @@ Includes:
 
 ## Professional Experience
 
-### Technical Writer II — Fortra
+### Technical Writer II — <a href="https://www.fortra.com/" target="_blank">Fortra</a>
 
-| **July 2022 – September 2026** |
-| ------------------------------ |
+`July 2022 – September 2026`
 
 Worked with Product Management, Engineering, QA, and Support teams to analyze product changes and create customer-facing and developer-facing documentation for enterprise SaaS products.
 
-Key areas:
+**Duties performed:**
 
+- Developed and maintained customer-facing documentation, defining information architecture, navigation structures, and reusable content models for enterprise SaaS products.
+- Authored and managed a structured repository of 150+ high-impact Knowledge Base (KB) articles in Microsoft Dynamics 365 and published 2-3 release notes per quarter; updated KB articles and the online user guide reduced customer support queries by 20%.
+- Guided cross-functional collaboration with Engineering, QA, and Product Management to translate complex technical architecture and rapid feature changes into intuitive user guides.
+- Collaborated within Agile product squads, driving documentation readiness alongside sprint velocity, feature demos, and continuous delivery cycles.
+- Managed developer-facing documentation using Docs-as-Code practices with GitLab, Markdown, Git version control, and pull-request workflows to manage versioning and content updates.
+- Used advanced single-source and structured authoring and content reuse frameworks in MadCap Flare to streamline content production and ensure consistency across multiple enterprise SaaS deliverables.
+- Tested UI workflows from an end-user perspective, identify defects and inconsistencies, and collaborate with QA teams to resolve issues affecting usability.
+- Published responsive HTML documentation to AWS-hosted environments, ensuring scalable and version-controlled online help delivery.
+
+<!--
 * Product and feature documentation
 * Release notes
 * Knowledge-base content
@@ -96,18 +108,26 @@ Key areas:
 * Markdown
 * Responsive HTML documentation
 * Documentation impact analysis
-
+-->
 ---
 
-### Senior Business Analyst – Technical Writer — eClinicalWorks
+### Senior Business Analyst – Technical Writer — <a href="https://www.eclinicalworks.com/" target="_blank">eClinicalWorks</a> 
 
-| **April 2018 – January 2021** |
-| ----------------------------- |
+`April 2018 – January 2021`
 
 Worked across business analysis, technical writing, product workflows, and healthcare software documentation.
 
-Key areas:
+**Duties performed:**
 
+- Produced clear, structured customer- and internal-facing documentation in an Agile development environment, supporting product usability and issue resolution.
+- Collaborated with developers, SMEs, QA, and product stakeholders to gather technical details and translate them into release notes, change logs, and workflow documentation.
+- Conducted post-release analysis of EMR/EHR UI workflows, identifying usability issues and defects, and worked with QA and engineering teams to ensure timely resolution.
+- Supported customer-facing teams by documenting known issues, feature changes, and process updates, improving transparency and reducing repeat inquiries.
+- Facilitated stakeholder interviews and technical discussions to clarify system behavior, edge cases, and customer-impacting changes.
+- Created and maintained knowledge hub and customer portal content using Microsoft SharePoint and OneDrive, ensuring version control, accessibility, and audit readiness.
+- Prepared professional communications, presentations, and reference materials to support internal training and customer enablement.
+
+<!---
 * Requirements and workflow analysis
 * Stakeholder discussions
 * User and system workflow documentation
@@ -117,18 +137,23 @@ Key areas:
 * Knowledge management
 * Customer and internal documentation
 * Peer mentoring and review feedback
-
+--->
 ---
 
-### Associate Detail Engineer — BlueStream Professional Services
+### Associate Detail Engineer — <a href="https://www.kgpco.com/" target="_blank">BlueStream Professional Services</a>
 
-| **September 2015 – February 2018** |
-| ---------------------------------- |
+`September 2015 – February 2018`
 
 Supported telecommunications engineering and field-installation teams through technical documentation, engineering analysis, and operational procedures.
 
-Key areas:
+**Duties performed:**
 
+- Authored user documentation, including Specification Installation Guides (SPEC) and Method of Procedure (MOP) based on project scope provided by subject matter experts (SMEs) or stakeholders.
+- Supported Installation Engineers in commissioning and decommissioning network bays, fiber panels, and circuit packs by preparing detailed instruction manuals.
+- Managed procurement and quoting of engineering materials using the internal System Integration Information Manager (SIIM) application.
+- Collaborated with Installation Admins, Application Engineers, and Project Managers to troubleshoot technical issues, report software bugs, and provide documentation support to the Installation Team.
+
+<!--
 * Installation documentation
 * Method of Procedure (MOP)
 * Specification Installation Guides (SPEC)
@@ -136,7 +161,7 @@ Key areas:
 * Engineering document reviews
 * Technical troubleshooting
 * SME collaboration
-
+-->
 ---
 
 ## Tools & Technologies
@@ -150,17 +175,17 @@ Key areas:
 
 ## Education
 
-**Postgraduate in Wireless Telecommunications**
-Humber Institute of Technology and Advanced Learning, Toronto, Canada
-**January 2021 – August 2021**
+- **Postgraduate in Wireless Telecommunications**
+  - <a href="https://humber.ca/" target="_blank">Humber Institute of Technology and Advanced Learning</a>, Toronto, Canada
+    `January 2021 – August 2021`
 
-**Postgraduate Diploma in Business Administration**
-Kristu Jayanti College, Bangalore, India
-**July 2018 – July 2019**
+- **Postgraduate Diploma in Business Administration**
+  - <a href="https://kristujayanti.edu.in/" target="_blank">Kristu Jayanti College</a>, Bangalore, India
+    `July 2018 – July 2019`
 
-**Bachelor of Engineering — Electronics & Communication**
-HKBK College of Engineering, Bangalore, India
-**September 2011 – June 2015**
+- **Bachelor of Engineering — Electronics & Communication**
+  - <a href= "https://www.hkbk.edu.in/" target="_blank">HKBK College of Engineering</a>, Bangalore, India
+    `September 2011 – June 2015`
 
 ---
 
